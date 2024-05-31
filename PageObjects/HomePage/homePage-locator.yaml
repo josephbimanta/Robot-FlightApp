@@ -1,0 +1,3 @@
+homepage_show:          //android.widget.ImageView[@resource-id="com.example.myapplication:id/imageView"]
+searchbutton_header:    //android.widget.Button[@resource-id="com.example.myapplication:id/search_flight"]
+signinbutton_click:     //android.widget.Button[@resource-id="com.example.myapplication:id/login"]
