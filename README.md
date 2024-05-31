@@ -1,2 +1,3 @@
 # Robot-FlightApp
-Flight App
+
+Ini merupakan sebuah portofolio saya dalam Mobile Automation Testing menggunakan Robot Framework
